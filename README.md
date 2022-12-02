@@ -3,28 +3,32 @@
 Ce test est destiné à la fois pour une candidature data et backend.
 
 ## Préambule
-### Instructions :
+
+### Instructions
+
 - la durée du test ne pourra pas excéder 2h au total. L'important n'est pas de tout finir, mais de faire un travail de qualité sur ce qui aura été effectué.
 - chaque exercice donnera lieu à la création d'un dossier spécifique, qui pourra contenir plusieurs modules python
 - il est interdit d'utiliser des bibliothèques extérieures à celles incluses directement dans Python
 - il est autorisé d'utiliser Internet, notamment bien sûr pour s'appuyer sur la doc python
 - il est conseillé de produire un code modulaire, orienté objet
-- toutes les ressources sont fournies en UTF-8 : il ne faut pas les copier-coller mais bien les télécharger (cloner le repo actuel)
+- toutes les ressources sont fournies en UTF-8 (cloner le repo actuel)
 - il est requis d'utiliser git
 
-### Seront jugés :
+### Seront jugés
+
 - la qualité des résultats
 - l'usage opportun des structures de données
 - la complexité des algorithmes
 - la simplicité (au sens positif) des algorithmes et du code.
 
-### Résultats :
+### Résultats
 
 Les résultats, sont attendu dans un repo Github contenant un dossier par exercice. Chaque dossier contiendra le code source et fichiers générés. Merci de nous partager le lien de votre repo sur axel.schafers@clustaar.com & amin.messaoudi@clustaar.com .
 
 NB : toutes les ressources de ce test sont encodées en UTF-8. Il en est attendu de même du côté du candidat.
 
 ## Exercices
+
 ### Exercice 1 - échauffement
 
     Input : le fichier texte.txt, à télécharger.

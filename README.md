@@ -6,7 +6,7 @@ Ce test est destiné à la fois pour une candidature data et backend.
 
 ### Instructions
 
-- la durée du test ne pourra pas excéder 2h au total. L'important n'est pas de tout finir, mais de faire un travail de qualité sur ce qui aura été effectué.
+- la durée du test recommandé est de 2h au total. L'important n'est pas de tout finir, mais de faire un travail de qualité sur ce qui aura été effectué.
 - chaque exercice donnera lieu à la création d'un dossier spécifique, qui pourra contenir plusieurs modules python
 - il est interdit d'utiliser des bibliothèques extérieures à celles incluses directement dans Python
 - il est autorisé d'utiliser Internet, notamment bien sûr pour s'appuyer sur la doc python

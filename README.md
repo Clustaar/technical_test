@@ -23,7 +23,7 @@ Ce test est destiné à la fois pour une candidature data et backend.
 
 ### Résultats
 
-Les résultats, sont attendu dans un repo Github contenant un dossier par exercice. Chaque dossier contiendra le code source et fichiers générés. Merci de nous partager le lien de votre repo sur axel.schafers@clustaar.com & amin.messaoudi@clustaar.com .
+Les résultats, sont attendu dans le repo Github du candidat contenant un dossier par exercice. Chaque dossier contiendra le code source et fichiers générés. Merci de nous partager le lien de votre repo sur axel.schafers@clustaar.com & amin.messaoudi@clustaar.com .
 
 NB : toutes les ressources de ce test sont encodées en UTF-8. Il en est attendu de même du côté du candidat.
 

@@ -32,13 +32,13 @@ NB : toutes les ressources de ce test sont encodées en UTF-8. Il en est attendu
 ### Exercice 1 - échauffement
 
     Input : le fichier texte.txt, à télécharger.
-    Output : afficher les 10 mots porteurs de sens les plus présents dans le fichier, associés à leur fréquence
-    Conseil : utiliser le module blacklist.py
+    Output : afficher les 10 mots porteurs de sens les plus présents dans le fichier, associés à leur fréquence.
+    Conseil : utiliser le module blacklist.py.
 
 ### Exercice 2 - offline web mining
 
     Input : les fichiers du dossier html, à télécharger.
-    Output : L'affichage pour chaque fichier html d'une structure : Titre, contenu de l'article, liens de l'articles.
+    Output : l'affichage pour chaque fichier html d'une structure : Titre, contenu de l'article, liens de l'articles.
 
 ### Exercice 3 - indexation
 
@@ -57,3 +57,24 @@ NB : toutes les ressources de ce test sont encodées en UTF-8. Il en est attendu
 
     Output : améliorer le programme précédent en permettant à l'utilisateur de fournir une phrase en entrée du moteur de recherche.
     Conseil : cet exercice est à voir comme une surcouche du précédent.
+
+### Exercice 6 (bakend) - API Falcon GET request
+
+    Output : retourner un json au format {data: {xxxx}} le plus adapté
+    Conseil : cet exercice est à voir comme une surcouche du précédent avec l'utilisation de falcon. (https://falcon.readthedocs.io/en/stable/).
+
+
+### Exercice 7 (bakend) - Pytest
+
+    Instruction : faire des tests minimaux sur le handler pour s'assurer du cas de succès, de retour vide et d'erreur.
+    Conseil : faire simple ne traiter que les 3 cas présentés. (https://docs.pytest.org/).
+
+
+### Exercice 8 (devops) - Image docker
+
+    Instruction : ajouter le code dans une image docker et rendre disponible l'api sur le port 4242.
+    Conseil : cet exercice est à voir comme une surcouche du précedent. (https://docs.docker.com/engine/reference/commandline/docker/).
+
+### Exercice 9 (devops) - Ngrok
+
+    Instruction : utiliser ngrok en local pour permettre l'utilisation de l'API à distance (https://ngrok.com/).
